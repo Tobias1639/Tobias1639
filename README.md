@@ -1,8 +1,8 @@
-#### Hey 👋, ich bin Tobias
+# Hey 👋, ich bin Tobias
 
 ## Web-Entwickler & Grafikdesigner
 
-### Gründer von:**TBG-Media**.
+
 
 ---
 
