@@ -14,10 +14,8 @@ Web-Entwickler & Founder bei **TBG-Media**.
 
 
 ### 🔗 Links & Socials
-
-
-<p align="center">
-  <a href="https://tobi-dev.lol" target="_blank"><img src="https://img.shields.io/badge/tobi--dev.lol-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<p>
+  <a href="https://tobi-dev.lol" target="_blank"><img src="https://img.shields.io/badge/Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:tobias@tbg-media.de"><img src="https://img.shields.io/badge/E--Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   &nbsp;
