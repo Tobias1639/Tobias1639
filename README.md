@@ -14,10 +14,25 @@ Web-Entwickler & Founder bei **TBG-Media**.
 
 
 ### 🔗 Links & Socials
-<p>
-  <a href="https://tobi-dev.lol" target="_blank"><img src="https://skillicons.dev/icons?i=net" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:tobias@tbg-media.de"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="50" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://tobi-dev.lol" target="_blank">
+        <img src="https://skillicons.dev/icons?i=net" height="45" /><br />
+        <b>Website</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:tobias@tbg-media.de">
+        <img src="https://skillicons.dev/icons?i=gmail" height="45" /><br />
+        <b>E-Mail</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" height="45" /><br />
+        <b>Discord</b>
+      </a>
+    </td>
+  </tr>
+</table>
