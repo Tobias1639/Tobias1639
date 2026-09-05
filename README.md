@@ -15,7 +15,7 @@
 ---
 
 
-### 🔗 Links & Socials
+### Links & Socials
 <p>
   <a href="https://tobi-dev.lol" target="_blank"><img src="https://img.shields.io/badge/Website-tobi--dev.lol-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
