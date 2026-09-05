@@ -1,6 +1,8 @@
 # Hi 👋, ich bin Tobias
 
-Web-Entwickler & Founder bei **TBG-Media**.
+Web-Entwickler & Grafikdesigner
+
+# Gründer von:**TBG-Media**.
 
 ---
 
