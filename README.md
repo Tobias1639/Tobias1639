@@ -19,5 +19,5 @@ Web-Entwickler & Founder bei **TBG-Media**.
   &nbsp;
   <a href="mailto:tobias@tbg-media.de"><img src="https://img.shields.io/badge/E--Mail-tobias%40tbg--media.de-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="[[https://discord.com](http://discord.com/users/1231973256915980298)](http://discord.com/users/1231973256915980298)" target="_blank"><img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/1231973256915980298" target="_blank"><img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
