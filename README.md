@@ -16,16 +16,16 @@ Web-Entwickler & Founder bei **TBG-Media**.
 ### 🔗 Links & Socials
 
 
-<p align="center">
+<p>
   <a href="https://tobi-dev.lol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=net" height="45" />
+    <img src="https://img.shields.io/badge/🌐_Website-tobi--dev.lol-6366f1?style=for-the-badge" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" />
-  </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:tobias@tbg-media.de">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://img.shields.io/badge/✉️_E--Mail-Schreiben-21262d?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
