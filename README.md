@@ -5,7 +5,6 @@ Web-Entwickler & Founder bei **TBG-Media**.
 ---
 
 ### Meine Kompetenzen
-### 🚀 Technologien & Tools
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,discordjs" />
 </a>
