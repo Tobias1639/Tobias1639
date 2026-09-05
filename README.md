@@ -14,25 +14,10 @@ Web-Entwickler & Founder bei **TBG-Media**.
 
 
 ### 🔗 Links & Socials
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://tobi-dev.lol" target="_blank">
-        <img src="https://skillicons.dev/icons?i=net" height="45" /><br />
-        <b>Website</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:tobias@tbg-media.de">
-        <img src="https://skillicons.dev/icons?i=gmail" height="45" /><br />
-        <b>E-Mail</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" height="45" /><br />
-        <b>Discord</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://tobi-dev.lol" target="_blank"><img src="https://img.shields.io/badge/Website-tobi--dev.lol-1f2937?style=for-the-badge&logo=googlechrome&logoColor=6366f1" /></a>
+  &nbsp;
+  <a href="mailto:tobias@tbg-media.de"><img src="https://img.shields.io/badge/E--Mail-tobias%40tbg--media.de-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  &nbsp;
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-1f2937?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+</p>
