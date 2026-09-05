@@ -14,5 +14,6 @@ Web-Entwickler & Founder bei **TBG-Media**.
 
 
 ### 📊 GitHub Stats
-![GitHub Stats von Tobias](https://vercel.app)
+![Tobias' GitHub Stats](https://vercel.app)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias1639&layout=compact&theme=dark)
