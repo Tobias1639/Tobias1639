@@ -4,7 +4,7 @@
 ### Das mache ich so
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,blender,androidstudio,photoshop,illustrator,premiere,arduino" alt="Skills" />
+  <img src="https://glyphbadges.dev/skills?i=html,css,js,php,wordpress,blender,androidstudio,photoshop,illustrator,premiere,arduino" alt="Skills" />
 </div>
 
 
